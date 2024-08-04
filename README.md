@@ -1,9 +1,9 @@
 # Experiment 5 and 6
-Aim:<br>
+**Aim:** <br>
 a. To study and implement C++ decision making statements. <br>
 b. To study and implement C++ decision making statements Loops. <br>
 <br>
-Theory: <br>
+**Theory:** <br>
 In C++, loops are programming constructs that allow a certain section of code to be repeated as many times as needed. 
 The main loops in C++ are *for* loop, *while* loop and *do-while* loop. <br>
 _for:_ Suitable for situations where the number of iterations has been determined beforehand. It consists of a starting value, condition checker and an increment or a decrement value in one single line making it neat and easy to read. <br>
@@ -18,7 +18,7 @@ _if-elseif-else:_ This enables the evaluation of several conditions sequentially
 _switch case:_ This facilitates picking one among many subprograms depending on a variable’s value. So rather than using multiple nested if-else statements we can use switch instead.<br>
 <br>
 
-Code:<br>
+**Code:** <br>
 
 ```
 #include <iostream>
@@ -184,6 +184,16 @@ int main()
     cout<<endl;
     cout<<endl; 
 
+Output:<br>
+![exp61](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp61.JPG)
+![exp62](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp62.JPG)
+![exp63](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp63.JPG)
+![exp64](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp64.JPG)
+<br>
+
+**Conclusion:** <br>
+&#8594; We learnt about conditional statements and their use case. <br>
+&#8594; We learnt about loops and their use case. <br>
    return 0;
 }
 ```
