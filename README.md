@@ -183,7 +183,9 @@ int main()
         }
     cout<<endl;
     cout<<endl; 
+```
 
+<br>
 Output:<br>
 ![exp61](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp61.JPG)
 ![exp62](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp62.JPG)
@@ -196,7 +198,7 @@ Output:<br>
 &#8594; We learnt about loops and their use case. <br>
    return 0;
 }
-```
+
 
 <br>
 Output:<br>
