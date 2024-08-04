@@ -11,8 +11,7 @@ _while:_ Mostly used on cases whose number of repetitions is unknown and whose s
 _do-while:_ It is like the while loop but it assures  that the code will  run at least once because its condition is examined after its block runs. This comes in handy especially if your code needs to be executed no less than once. <br>
 <br>
 Conditional statements allow you to make decisions within your programs. Specifically they can be used to execute specific blocks of code for particular situations only. <br>
-There are four primary conditional statements in C language: if statement, if-else statement, if-else if-else statement, and switch statement. <br> 
-<br>
+There are four primary conditional statements in C language: _if statement_, _if-else statement_,_ if-else if-else statement_, and _switch statement_. <br> 
 _if:_ The simplest form among conditionals where a certain condition is evaluated and if it evaluates true then certain flow control unit executes its commands. <br>
 _if-else:_ This is an extension of the first form since we have the alternative block whose commands get executed provided that the original statement was false when selected. <br>
 _if-elseif-else:_ This enables the evaluation of several conditions sequentially until it finds one which is true whereby if this happens its contained or associated block will be executed while ignoring all other blocks. <br>
