@@ -182,10 +182,14 @@ int main()
             }
         }
     cout<<endl;
-    cout<<endl; 
+    cout<<endl;
+    return 0;
+}
+
 ```
 
 <br>
+
 **Output:** <br>
 
 ![exp61](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp61.JPG)
@@ -197,9 +201,6 @@ int main()
 **Conclusion:** <br>
 &#8594; We learnt about conditional statements and their use case. <br>
 &#8594; We learnt about loops and their use case. <br>
-   return 0;
-}
 
 
 <br>
-Output:<br>
