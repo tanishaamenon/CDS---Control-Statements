@@ -186,7 +186,8 @@ int main()
 ```
 
 <br>
-Output:<br>
+**Output:** <br>
+
 ![exp61](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp61.JPG)
 ![exp62](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp62.JPG)
 ![exp63](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp63.JPG)
