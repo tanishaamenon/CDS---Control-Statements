@@ -1,5 +1,6 @@
 # Experiment 5 and 6
-**Experiment 6** <br>
+**Experiment 5** <br>
+<br>
 **Aim:** <br>
 To study and implement C++ decision making statements. <br>
 <br>
@@ -140,6 +141,7 @@ int main()
 
 
 **Experiment 6** <br>
+<br>
 **Aim:** <br>
 To study and implement C++ decision making statements Loops. <br>
 <br>
